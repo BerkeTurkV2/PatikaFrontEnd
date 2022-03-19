@@ -1,0 +1,17 @@
+a {
+    padding: 30px;
+}
+
+header,
+section,
+div {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+}
+
+ul,ol {
+    list-style-position: inside;
+}
